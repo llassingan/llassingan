@@ -8,6 +8,7 @@
 - 💬 Ask me about Anything :)
 - 📫 How to reach me: @etedadd
 - ⚡ Fun fact: I'm a noobie, whoopsie
-<br> 😄 Happy to see you!
+<br> <br> 
+### 😄 Happy to see you!
 
 
