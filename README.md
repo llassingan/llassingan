@@ -1,12 +1,7 @@
-# Hi there 👋
-
 <!--
 **llassingan/llassingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## Linggabyte  | Software Engineer
+### Welcome to llassingan Github Profile!
 
-### Designing experiences, architecting robust, scalable and AI-first systems
-
-## 😄 Happy to see you!
-
-
+> ### <i>Designing experiences, architecting robust, scalable and AI-first systems<i>
